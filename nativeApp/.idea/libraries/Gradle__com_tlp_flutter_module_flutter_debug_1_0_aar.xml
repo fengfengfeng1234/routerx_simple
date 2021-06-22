@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tlp.flutter_module:flutter_debug:1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7eb68676680764edfae304c8330bc6e6/jetified-flutter_debug-1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/54f20f62cbb1a3ba63edb23dc6164ab0/jetified-flutter_debug-1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e34975974d4df9d918bbbb1a03c6b330/jetified-flutter_debug-1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e34975974d4df9d918bbbb1a03c6b330/jetified-flutter_debug-1.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e34975974d4df9d918bbbb1a03c6b330/jetified-flutter_debug-1.0/jars/libs/libs.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e34975974d4df9d918bbbb1a03c6b330/jetified-flutter_debug-1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
