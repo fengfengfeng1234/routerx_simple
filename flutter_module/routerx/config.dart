@@ -8,7 +8,7 @@ void configureRouter(RouterxOptions options) {
 
   //router plugin  各个native 插件路径
   options.androidPluginClassPath =
-      "android/src/main/kotlin/com/tlp/integrated_routing/RouterConfig.kt";
+      "android/src/main/kotlin/com/example/integrated_routing/RouterConfig.kt";
   options.iosPluginClassPath = "ios/Classes/RouterConfig.swift";
 
   //插件名称
