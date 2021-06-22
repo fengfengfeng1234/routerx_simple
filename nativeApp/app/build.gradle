@@ -23,9 +23,9 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
 
-        profile {
-            initWith debug
-        }
+//        profile {
+//            initWith debug
+//        }
 
     }
     compileOptions {
@@ -51,6 +51,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
     debugImplementation 'com.tlp.flutter_module:flutter_debug:1.0'
-    profileImplementation 'com.tlp.flutter_module:flutter_profile:1.0'
-    releaseImplementation 'com.tlp.flutter_module:flutter_release:1.0'
+//    profileImplementation 'com.tlp.flutter_module:flutter_profile:1.0'
+//    releaseImplementation 'com.tlp.flutter_module:flutter_release:1.0'
 }
